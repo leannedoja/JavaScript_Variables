@@ -9,7 +9,7 @@ let lastName = "Richardson";
 var age = 35;
 
 // Exercise 2
-firstName = "Leanne";
+
 lastName = "Dozier";
 age = 39;
 
